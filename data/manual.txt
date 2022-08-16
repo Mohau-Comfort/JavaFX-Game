@@ -1,0 +1,12 @@
+MOVEMENT:
+	1. Use Up, Down, Left, and Right keyboard buttons to move player.
+TASKS:
+	1. Collect all coins before running out of time.
+EXPLOSIVES:
+	1. Pick up explosive by moving above it, YOU CAN ONLY PICK UP ONE EXPLOSIVE AT A TIME.
+	2. Plot all explosive right next to the stone.
+	3. Use the Plot Bomb button to plot a bomb.
+	4. Bomb is placed at your current location.
+	5. You only have one detonator for the explosives, so plant all the bombs and then detonate them.
+  	6. Use the Detonator button to detonate the explosives.
+	7. Some of the bombs are traps if they get you lose and if you run out of time you lose.
